@@ -27,6 +27,8 @@ OrganizationFactory Contract: https://sepolia.etherscan.io/address/0x5d7005b3a59
 Organization Contract: https://sepolia.etherscan.io/address/0x93136f5b0c6948716d6a4d8decd0bc1f8db585b9
 Authors
 
-Esther Oche @metacraftersio [Esther Oche](#https://twitter.com/Estheroche1)
+Esther Oche @metacraftersio   
+https://twitter.com/Estheroche1
+
 License
 This project is licensed under the MIT License - see the LICENSE.md file for details
