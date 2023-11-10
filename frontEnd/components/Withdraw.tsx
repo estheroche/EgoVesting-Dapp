@@ -128,11 +128,10 @@ export function Withdraw() {
           {contractAddresses?.map((contractAddress, index) => (
             <label
               key={index}
-              className={`block bg-white rounded-lg p-2 cursor-pointer transition ${
-                selectedContract === contractAddress
+              className={`block bg-white rounded-lg p-2 cursor-pointer transition ${selectedContract === contractAddress
                   ? "bg-blue-200" // Highlighted background color
                   : "bg-gray-100" // Default background color
-              }`}
+                }`}
             >
               <input
                 type="radio"
@@ -161,7 +160,7 @@ export function Withdraw() {
           type="button"
           disabled={contractAddresses?.length > 0 ? false : true}
           onClick={verifyByHash}
-          className="bg-[#7F56D9] text-white px-4 py-2 rounded-lg"
+          className="bg-[#bb0059] text-white px-4 py-2 rounded-lg"
         >
           Withdraw Tokens
         </button>
