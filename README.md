@@ -15,9 +15,9 @@ The contract implements the following features:
 
 Live Url:
 
-https://360-vest-wise.vercel.app/
+https://ego-vesting-dapp-wja5.vercel.app/
 
-https://vesting-token-front-end.vercel.app/
+
 Contract Addresses
 
 TokenContract: https://sepolia.etherscan.io/address/0x99b3bca6b5d13464c2c986f220d7f962a5fce7bb
